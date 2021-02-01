@@ -2,6 +2,7 @@
 'RCET0265
 'Spring 2021
 'ConvertAndValidate
+'https://github.com/callkend/Convert-And-Validate.git
 
 Option Explicit On
 Option Strict On
@@ -35,5 +36,4 @@ Module ConvertAndValidate
 
         End Try
     End Function
-
 End Module
